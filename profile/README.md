@@ -1,6 +1,8 @@
 # 🫎 Cascadia
 We're a small team of UTC students recreating the board game *Cascadia* in C++ using Qt, as part of our LO21 project.
+
 ![image](https://github.com/user-attachments/assets/dbaf0ba5-582d-4725-937f-f22597a50b08)
+
 The goal: build a playable digital version with drag-and-drop tiles, habitat logic, wildlife scoring, and a clean interface — just like the real thing (but with fewer lost pieces).
 
 ### 🛠 Built with
