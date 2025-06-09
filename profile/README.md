@@ -1,19 +1,17 @@
-# 🫎 Cascadia 
-> A wild adventure in code, hexes, and C++ glory
+# 🫎 Cascadia
 
-Welcome to **Cascadia**, where tiles align, nature thrives, and C++ meets board game magic. We're a team of student developers bringing the award-winning *Cascadia* board game to life — one hexagon at a time — using **Qt** and **object-oriented design** for our LO21 OOP class.
+We're a small team of UTC students recreating the board game *Cascadia* in C++ using Qt, as part of our LO21 project.
 
-🎯 **Mission:**  
-Recreate the strategy and serenity of Cascadia, with drag-and-drop placement, habitat logic, wildlife scoring, and a polished GUI.
+The goal: build a playable digital version with drag-and-drop tiles, habitat logic, wildlife scoring, and a clean interface — just like the real thing (but with fewer lost pieces).
 
-🧠 **Tech Stack:**  
-- C++ (for crisp logic & performance)  
-- Qt Framework (for an interactive, cross-platform UI)  
-- Team spirit + snacks (for debugging marathons)
+### 🛠 Built with
+- C++ & object-oriented design
+- Qt for the GUI
+- A lot of trial and error
 
-🐻 **Coming soon:**  
-- Full solo and multiplayer modes  
-- Wildlife scoring animations  
-- A *peaceful* soundtrack (optional, not everyone finds scoring peaceful 😅)
+### 🎯 What’s next
+- Solo and multiplayer modes
+- Wildlife scoring rules
+- Maybe even a cozy soundtrack
 
-Stay tuned, star the repo, and help us make the forest proud 🌿
+Still work in progress — but it’s getting there so stay tuned, star the repo, and help us make the forest proud  🌿
